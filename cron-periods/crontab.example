@@ -1,0 +1,8 @@
+* * * * * /example/path/to/1-minute-cronscript.sh
+*/5 * * * * /example/path/to/5-minute-cronscript.sh
+0 0 * * * /example/path/to/1-hour-cronscript.sh
+0 */5 * * * /example/path/to/5-hour-cronscript.sh
+0 0 1 * * /example/path/to/1-day-cronscript.sh
+0 0 1 */7 /example/path/to/1-week-cronscript.sh
+0 0 1 1 * /example/path/to/1-month-cronscript.sh
+0 0 1 1 1 /example/path/to/1-year-cronscript.sh
